@@ -7,12 +7,12 @@ gem 'rails', '3.0.3'
 
 #gem 'sqlite3-ruby', :require => 'sqlite3'
 #group :production do
-  gem 'pg'
-end
+ # gem 'pg'
+#end
 
 #group :development, :test do
-  gem 'sqlite3-ruby', ' 1.3.1', :require => 'sqlite3'
-end
+  #gem 'sqlite3-ruby', ' 1.3.1', :require => 'sqlite3'
+#end
 # Use unicorn as the web server
 # gem 'unicorn'
 
